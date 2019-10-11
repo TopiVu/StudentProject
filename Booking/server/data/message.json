@@ -1,0 +1,34 @@
+{
+    "account":{
+        "err_pass":"Tên đăng nhập hoặc mật khẩu không tồn tại !!!",
+        "disable" :"Tài khoản của bạn đã bị vô hiệu hóa !!!",
+        "valnull":"Vui lòng nhập tài khoản và mật khẩu !!! ",
+        "phonenull":"Vui lòng nhập tên tài khoản !!! ",
+        "passnull":"Vui lòng nhập mật khẩu !!!",
+        "phoneduplicate":"Số điện thoại đã được sử dụng !!!",
+        "repassfaile":"Mật khẩu nhập lại không trùng khớp !!!",
+        "success":"Đăng ký thành công !!!",
+        "allnull":"Vui lòng không bỏ trống ô nhập liệu nào !!!"
+    },
+    "map":{
+        "null":"Hiện tại không có xe nào hoạt động !!!",
+        "km": " Xin lỗi hiện tại không có xe nào hoạt động trong khu vực của bản !!!",
+        "cancel":"Chuyến của bạn đã được hủy !!!",
+        "poor":"Xin lỗi số tiền trong tài khoản quý khách không đủ để thực hiện chuyến đi !!!",
+        "booting":"Hiện tại bạn đang đặt 1 chuyến xe vui lòng đợi sau khi hoàn thành chuyến đó !!!",
+        "null_pos":"Vui lòng nhập chọn địa điểm đặt xe!!!"
+        
+        
+    },
+    "profile":{
+        "complete":"Bạn đã hoàn tất chuyến đi, mời kích hoạt trạng thái hoạt động để nhận chuyến mới !",
+        "histrory_null":"Bạn chưa có chuyên đi nào !!!"
+    },
+    "admin":{
+        "null":"Hiện tại không có tài khoản nào!!!",
+        "update_fail":"Sô điện thoại đã dùng!!!",
+        "update_success":"Cập nhật thành công !!!"
+    }
+
+
+}
